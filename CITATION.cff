@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Huang
+  given-names: Zeqin
+title:huangzq681/TP_snowdrought_2024: V1.0
+version: V1.0
+doi: 10.5281/zenodo.10780583
+date-released: 2024-03-05
